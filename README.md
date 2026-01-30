@@ -3,3 +3,5 @@
 - os_commands.py – Executes OS-level commands using Python for automation
 
 - resource_monitor.py – Automated disk and memory usage monitoring using Python
+
+- logging_example.py – Demonstrates production-style logging for automation scripts
