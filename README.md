@@ -5,3 +5,5 @@
 - resource_monitor.py – Automated disk and memory usage monitoring using Python
 
 - logging_example.py – Demonstrates production-style logging for automation scripts
+
+- log_parser.py – Automated log scanning and error detection script
